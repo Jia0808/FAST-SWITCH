@@ -13,7 +13,7 @@ Fast-Switch是一款高效的开发环境切换工具，帮助开发者轻松管
 - 高效稳定，提升开发效率
 
 ## 下载安装
-- [点击下载最新版本](https://bgithub.xyz/Jia0808/FAST-SWITCH/releases/download/v1.0.0/Fast-Switch-Setup.exe)
+- [点击下载最新版本](https://gitee.com/jia12580/fast-switch/releases/download/v1.0.0/Fast-Switch-Setup.exe)
 
 ## 安装流程
 ![点击.exe文件](/imgs/imgs1.0.png)
