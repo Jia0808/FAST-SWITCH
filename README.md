@@ -13,7 +13,7 @@ Fast-Switch is an efficient development environment switching tool that helps de
 - Efficient and stable, improving development productivity
 
 ## Download and Installation
-- [Click to download the latest version](https://kkgithub.com/Jia0808/FAST-SWITCH/blob/main/Fast-Switch-Setup.exe)
+- [Click to download the latest version](https://gitee.com/jia12580/fast-switch/releases/download/v1.0.0/Fast-Switch-Setup.exe)
 
 ## Installation Process
 ![Click the .exe file](/imgs/imgs1.0.png)
